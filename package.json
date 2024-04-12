@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "type": "module",
     "author": {
-        "name": "Cristiano Raimondi",
-        "url": "https://github.com/chrisuser"
+        "name": "Marek Lempart",
+        "url": "https://github.com/MarekLempart"
     },
     "dependencies": {
         "@reduxjs/toolkit": "^2.2.2",
